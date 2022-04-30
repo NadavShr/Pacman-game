@@ -1,0 +1,46 @@
+﻿  Board.cpp
+C:\Users\Nadav\Desktop\Pacman\Board.h(30,44): warning C4309: 'initializing': truncation of constant value
+  Creature.cpp
+C:\Users\Nadav\Desktop\Pacman\Board.h(30,44): warning C4309: 'initializing': truncation of constant value
+C:\Users\Nadav\Desktop\Pacman\Creature.h(15,41): warning C4309: 'initializing': truncation of constant value
+  Fruit.cpp
+C:\Users\Nadav\Desktop\Pacman\Board.h(30,44): warning C4309: 'initializing': truncation of constant value
+C:\Users\Nadav\Desktop\Pacman\Creature.h(15,41): warning C4309: 'initializing': truncation of constant value
+C:\Users\Nadav\Desktop\Pacman\Fruit.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.cpp
+C:\Users\Nadav\Desktop\Pacman\Board.h(30,44): warning C4309: 'initializing': truncation of constant value
+C:\Users\Nadav\Desktop\Pacman\Creature.h(15,41): warning C4309: 'initializing': truncation of constant value
+C:\Users\Nadav\Desktop\Pacman\Game.cpp(78,6): warning C4101: 'posIndex': unreferenced local variable
+  Ghost.cpp
+C:\Users\Nadav\Desktop\Pacman\Board.h(30,44): warning C4309: 'initializing': truncation of constant value
+C:\Users\Nadav\Desktop\Pacman\Creature.h(15,41): warning C4309: 'initializing': truncation of constant value
+  LoadGameMode.cpp
+C:\Users\Nadav\Desktop\Pacman\Board.h(30,44): warning C4309: 'initializing': truncation of constant value
+C:\Users\Nadav\Desktop\Pacman\Creature.h(15,41): warning C4309: 'initializing': truncation of constant value
+C:\Users\Nadav\Desktop\Pacman\LoadGameMode.cpp(119,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Nadav\Desktop\Pacman\LoadGameMode.cpp(135,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  main.cpp
+C:\Users\Nadav\Desktop\Pacman\Board.h(30,44): warning C4309: 'initializing': truncation of constant value
+C:\Users\Nadav\Desktop\Pacman\Creature.h(15,41): warning C4309: 'initializing': truncation of constant value
+  Menu.cpp
+  Pacman.cpp
+C:\Users\Nadav\Desktop\Pacman\Board.h(30,44): warning C4309: 'initializing': truncation of constant value
+C:\Users\Nadav\Desktop\Pacman\Creature.h(15,41): warning C4309: 'initializing': truncation of constant value
+  SaveGameMode.cpp
+C:\Users\Nadav\Desktop\Pacman\Board.h(30,44): warning C4309: 'initializing': truncation of constant value
+C:\Users\Nadav\Desktop\Pacman\Creature.h(15,41): warning C4309: 'initializing': truncation of constant value
+C:\Users\Nadav\Desktop\Pacman\SaveGameMode.cpp(13,6): warning C4101: 'screenMethod': unreferenced local variable
+C:\Users\Nadav\Desktop\Pacman\SaveGameMode.cpp(14,6): warning C4101: 'screenOption': unreferenced local variable
+C:\Users\Nadav\Desktop\Pacman\SaveGameMode.cpp(101): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\Nadav\Desktop\Pacman\SaveGameMode.cpp(116,6): warning C4101: 'tempEatenFlag': unreferenced local variable
+  ScoreBoard.cpp
+  SilentGameMode.cpp
+C:\Users\Nadav\Desktop\Pacman\Board.h(30,44): warning C4309: 'initializing': truncation of constant value
+C:\Users\Nadav\Desktop\Pacman\Creature.h(15,41): warning C4309: 'initializing': truncation of constant value
+C:\Users\Nadav\Desktop\Pacman\SilentGameMode.cpp(44): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+  SimpleGameMode.cpp
+C:\Users\Nadav\Desktop\Pacman\Board.h(30,44): warning C4309: 'initializing': truncation of constant value
+C:\Users\Nadav\Desktop\Pacman\Creature.h(15,41): warning C4309: 'initializing': truncation of constant value
+  Utils.cpp
+  Generating Code...
+  Pacman.vcxproj -> C:\Users\Nadav\Desktop\Pacman\x64\Debug\Pacman.exe
